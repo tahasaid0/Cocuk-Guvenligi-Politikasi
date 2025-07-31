@@ -34,7 +34,7 @@
 <body>
 
   <h1>Çankırı Cepte – Çocuk Güvenliği Politikası</h1>
-  <p><strong>Son Güncelleme:</strong> 24 Temmuz 2025</p>
+  <p><strong>Son Güncelleme:</strong> 31 Temmuz 2025</p>
 
   <div class="section">
     <p>Çankırı Cepte uygulaması, çocukların çevrimiçi güvenliğini sağlama konusunu son derece ciddiye alır. Uygulamamız, çocukların cinsel istismarı ve çocuk istismarına (CSAE) karşı güçlü bir duruş sergilemektedir. Bu politika, uygulamamızın CSAE içeriklerine karşı nasıl hareket ettiğini ve yasal yükümlülüklere nasıl uyduğunu açıklamaktadır.</p>
